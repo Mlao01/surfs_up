@@ -9,9 +9,10 @@
 - Software: SQLite, Python 3.7.9, VS Code
 
 ### Deliverables:
-__* Deliverable 1: Determine the Summary Statistics for June__
-__* Deliverable 2: Determine the Summary Statistics for December__
-__* Deliverable 3: A written report for the statistical analysis__
+ * Deliverable 1: Determine the Summary Statistics for June
+ * Deliverable 2: Determine the Summary Statistics for December
+ * Deliverable 3: A written report for the statistical analysis
+
 
 ## Results:
 * Summary statistics of temperature in Oahu for the month of June
